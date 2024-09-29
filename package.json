@@ -10,6 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@valifysolutions/react-native-vidvliveness": "^1.4.3",
+    "@valifysolutions/react-native-vidvocr": "^2.1.1",
     "react": "18.3.1",
     "react-native": "0.75.3"
   },
